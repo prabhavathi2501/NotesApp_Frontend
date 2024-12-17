@@ -1,0 +1,11 @@
+.me-auto{
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        gap: 20px;
+    
+}
+.note-card{
+        margin: 30px 50px;
+      
+}
